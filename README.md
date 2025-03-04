@@ -36,20 +36,37 @@ I'm a passionate **Full-Stack Developer** who loves crafting modern, responsive,
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" /><br>
       MongoDB
     </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" /><br>
+      Next.js
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" /><br>
+      TypeScript
+    </td>
   </tr>
 </table>
 
 ---
 
-## Connect with Me
+## My Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fisayo-obadina-a38614267/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn" style="margin: 0 10px;">
   </a>
-  &nbsp;&nbsp;
   <a href="https://twitter.com/fisayocoder" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/fisaycoder?style=social" alt="Twitter">
+    <img src="https://img.shields.io/twitter/follow/fisayocoder?style=for-the-badge" alt="Twitter" style="margin: 0 10px;">
+  </a>
+</p>
+
+---
+
+## Daily.dev
+
+<p align="center">
+  <a href="https://app.daily.dev/fisayodev">
+    <img src="https://api.daily.dev/devcards/v2/461tXyIUJGaasjsFRG1Yu.png?type=wide&r=aa8" width="652" alt="Fisayo Obad's Dev Card"/>
   </a>
 </p>
 
@@ -58,5 +75,5 @@ I'm a passionate **Full-Stack Developer** who loves crafting modern, responsive,
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=fisayo-dev&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
