@@ -32,6 +32,8 @@ I'm a passionate **Full-Stack Developer** who loves crafting modern, responsive,
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50" /><br>
       Express
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" /><br>
       MongoDB
@@ -43,6 +45,14 @@ I'm a passionate **Full-Stack Developer** who loves crafting modern, responsive,
     <td align="center" style="padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" /><br>
       TypeScript
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50" /><br>
+      Tailwind CSS
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" /><br>
+      PostgreSQL
     </td>
   </tr>
 </table>
