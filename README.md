@@ -1,89 +1,113 @@
-# Hi, I'm Fisayo Obadina! 👋
+<div align="center">
 
-I'm a passionate **Full-Stack Developer** who loves crafting modern, responsive, and efficient applications. I believe in creativity, excellence, and a continuous drive to learn and innovate. Welcome to my GitHub profile!
+# 👋 Hey there, I'm Fisayo Obadina!
 
----
+### Full-Stack Developer | Problem Solver | Innovation Enthusiast
 
-## Tech Stack
+*Crafting elegant solutions through clean code and creative thinking*
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" /><br>
-      HTML5
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" /><br>
-      CSS3
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" /><br>
-      JavaScript
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" /><br>
-      React
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" /><br>
-      Node.js
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50" /><br>
-      Express
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" /><br>
-      MongoDB
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" /><br>
-      Next.js
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" /><br>
-      TypeScript
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50" /><br>
-      Tailwind CSS
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" /><br>
-      PostgreSQL
-    </td>
-  </tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fisayo-obadina-a38614267/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fisayocoder)
+
+</div>
 
 ---
 
-## My Socials
+## 🚀 About Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/fisayo-obadina-a38614267/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn" style="margin: 0 10px;">
-  </a>
-  <a href="https://twitter.com/fisayocoder" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/fisayocoder?style=for-the-badge" alt="Twitter" style="margin: 0 10px;">
-  </a>
-</p>
+I'm a passionate **Full-Stack Developer** who thrives on building modern, responsive, and efficient applications. My journey in tech is driven by an insatiable curiosity and a commitment to excellence. I believe that great software is born from the intersection of creativity, technical prowess, and user-centric design.
+
+- 🔭 Currently exploring cutting-edge web technologies
+- 🌱 Always learning, always growing
+- 💡 Love turning ideas into reality through code
+- 🎯 Focused on writing clean, maintainable, and scalable code
 
 ---
 
-## Daily.dev
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://app.daily.dev/fisayodev">
-    <img src="https://api.daily.dev/devcards/v2/461tXyIUJGaasjsFRG1Yu.png?type=wide&r=aa8" width="652" alt="Fisayo Obad's Dev Card"/>
-  </a>
-</p>
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fisayo-dev&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fisayo-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisayo-dev&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fisayo-dev&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fisayo-dev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💼 What I Do
+
+```typescript
+const fisayo = {
+    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+    technologies: {
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express"],
+        databases: ["MongoDB", "PostgreSQL"],
+    },
+    currentFocus: "Building scalable and user-friendly web applications",
+    funFact: "I debug with console.log and I'm not ashamed! 😄"
+};
+```
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on interesting projects or discuss new technologies!
+
+**Feel free to reach out:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fisayo-obadina-a38614267/)
+[![Twitter](https://img.shields.io/badge/Twitter-Let's_Chat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fisayocoder)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=fisayo-dev&color=blueviolet&style=for-the-badge)
+
+**Thanks for stopping by! Happy coding! 🚀**
+
+</div>
