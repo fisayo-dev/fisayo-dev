@@ -1,6 +1,6 @@
 # I'm Fisayo Obadina
 
-I am a software Engineer with 6+ years of experience. I love to solve problems with code. 
+I am a software Engineer with 6+ years of experience. I love to solve problems with code. I am student of Covenenat Univeristy.
 
 My core languages:
 1. Typescript.
