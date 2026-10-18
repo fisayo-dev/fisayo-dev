@@ -18,6 +18,11 @@ I am a software Engineer with 6+ years of experience. I love to solve problems w
 4. HTML5 & CSS.
 5. SQL
 
+## Products:
+- [Full-stack Creators](https://thefullstackcreators.com): A freelance platform for students. Find gigs, hire talent & get paid.
+- [Creativia](https://creativia-eight.vercel.app): A word game designed to test's student's creativity.
+- [Scanzie](https://scanzie.vercel.app): SEO analytics platform for devs & website owners. Analyzes your website's SEO.
+
 
 ## Projects: 
 - [VerifyNG](https://verifyng-three.vercel.app/): A certificate verification tool; Built for SQAUD Hackathon 3.0.
@@ -26,11 +31,6 @@ I am a software Engineer with 6+ years of experience. I love to solve problems w
 - [RSS Aggregator](https://github.com/fisayo-dev/rssagg): A blog RSS feed aggregator; built with Golang.
 - Sura for [Banks](https://sura-seven.vercel.app/) & [Users](https://surausers.vercel.app/): A credit-scoring system for banks to accurately issue loans; bult for Ecobank hackathon.
 - [Medic Translate](https://medictranslate-enyata.vercel.app/): AI-powered medical chat bot that explains medicial test results; Built for Interswitch X Enyata Hackathon.
-
-## Products:
-- [Full-stack Creators](https://thefullstackcreators.com): A freelance platform for students. Find gigs, hire talent & get paid.
-- [Creativia](https://creativia-eight.vercel.app): A word game designed to test's student's creativity.
-- [Scanzie](https://scanzie.vercel.app): SEO analytics platform for devs & website owners. Analyzes your website's SEO.
 
 
 [Fisayo Obadina](https://fisayobadina.vercel.app/)
