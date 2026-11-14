@@ -25,11 +25,12 @@ I am a software Engineer with 6+ years of experience. I love to solve problems w
 
 
 ## Projects: 
+- [Spendlens](https://spendlensng.vercel.app/): A financial-advisor that aids proper allocation of resources to regular users and api integrations into banks.
+- Sura for [Banks](https://sura-seven.vercel.app/) & [Users](https://surausers.vercel.app/): A credit-scoring system for banks to accurately issue loans; bult for Ecobank hackathon.
 - [VerifyNG](https://verifyng-three.vercel.app/): A certificate verification tool; Built for SQAUD Hackathon 3.0.
 - [Proofpay](https://proofpay-ai.vercel.app/): Verified marketplace for vendors and buyers; Bult for Kora hackathon.
 - [Loan Parser](https://loanparser.vercel.app/): Loan-parsing system for Loan Organization and Banks; Built for LMA Edge Hackathon, 2026
 - [RSS Aggregator](https://github.com/fisayo-dev/rssagg): A blog RSS feed aggregator; built with Golang.
-- Sura for [Banks](https://sura-seven.vercel.app/) & [Users](https://surausers.vercel.app/): A credit-scoring system for banks to accurately issue loans; bult for Ecobank hackathon.
 - [Medic Translate](https://medictranslate-enyata.vercel.app/): AI-powered medical chat bot that explains medicial test results; Built for Interswitch X Enyata Hackathon.
 
 
