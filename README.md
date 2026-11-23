@@ -7,6 +7,8 @@
   </a>
 </div>
 
+[![Tokenaires badge](https://tokenaires.cc/u/fisayo-dev/badge.svg)](https://tokenaires.cc/u/fisayo-dev)
+
 # Fisayo Obadina
 
 I am a software Engineer with 6+ years of experience. I love to solve problems with code. I am a student at Covenant University.
